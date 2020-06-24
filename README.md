@@ -1,3 +1,3 @@
 # PaprClip
 
-This is an implementation of the Navigatable Drawers in Flutter
+This is an implementation of the Navigable Drawers in Flutter
